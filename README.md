@@ -1,3 +1,9 @@
+# React Task Tracker
+
+This project is a small task tracker built using React
+
+below is some automatically created documentation for running a React App (including this one)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
